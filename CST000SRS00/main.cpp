@@ -6,6 +6,6 @@
 
 int main()
 {
-	std::cout << "hello, world" << std::endl;
+	std::cout << "hello, world" << std::endl; //we removed the initial comment and added this one. yay
 	return 0;
 }
